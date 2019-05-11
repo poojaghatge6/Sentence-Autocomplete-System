@@ -1,5 +1,9 @@
 # Sentence-Autocomplete-System
 
+Implemented beam search to find all probable complete sentences given a prefix of a sentence. Modeled the data i.e large corpus of sentences in a weighted directed graph to optimize the storage.
+
+Technology Stack: Java, Eclipse.
+
 Output:
 
 ```
